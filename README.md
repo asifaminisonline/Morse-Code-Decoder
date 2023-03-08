@@ -70,6 +70,13 @@ In the terminal, go to your file directory and run this command.
 ```
 $ git clone https://github.com/asifaminisonline/Morse-Code-Decoder.git
 ```
+## 🚀 Live Demo <a name="live-demo"></a>
+
+still under production
+
+- [Live Demo Link]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -86,6 +93,14 @@ $ git clone https://github.com/asifaminisonline/Morse-Code-Decoder.git
 - GitHub: [@Aman_on_GitHub](https://github.com/AmanWorku)
 - Twitter: [@Aman_on_Twitter](https://twitter.com/Amexworku)
 - LinkedIn: [@Aman_on_LinkedIn](https://www.linkedin.com/in/aman-worku-tsegaw/)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **I would appreciate your suggestions**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
