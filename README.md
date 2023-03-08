@@ -119,6 +119,6 @@ If you're committed to making the world a better place, please support our proje
 
 ## :memo: License <a name="license"></a>
 
-This project is [MIT](https://github.com/asifaminisonline/vet-clinic/blob/animal-table/LICENSE) licensed.
+This project is [MIT](https://github.com/asifaminisonline/Morse-Code-Decoder/blob/morse-code/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
